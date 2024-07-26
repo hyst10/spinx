@@ -1,8 +1,8 @@
 package main
 
 import (
-	"./http"
-	"./conf"
+	"http"
+	"conf"
 )
 
 func main(){
